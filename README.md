@@ -2,18 +2,18 @@
 
 # Қазақ мәтінін автоматты тану
 
-<https://tbiocr.kz/>
+<https://tbiocr.kz/><br/>
 
 ## Құралдар
 
-<https://github.com/BMukhtar/synthtiger_kz>
-<https://github.com/BMukhtar/TextRecognitionDataGenerator>
+<https://github.com/BMukhtar/synthtiger_kz><br/>
+<https://github.com/BMukhtar/TextRecognitionDataGenerator><br/>
 
 ## Мәтін базасы
 
-<https://github.com/kergalym/myspell-kk/tree/upstream>
-<https://huggingface.co/datasets/kz-transformers/multidomain-kazakh-dataset>
+<https://github.com/kergalym/myspell-kk/tree/upstream><br/>
+<https://huggingface.co/datasets/kz-transformers/multidomain-kazakh-dataset><br/>
 
 
 ## Қоданылған технология
-<https://www.mindee.com/platform/doctr>
+<https://www.mindee.com/platform/doctr><br/>
